@@ -17,7 +17,7 @@ This complete Library Management System includes:
 - ✅ DataTables for sorting/filtering
 - ✅ Proper validation
 - ✅ Database triggers for automation
-
+ 
 The system is production-ready and can be deployed on any PHP/MySQL hosting platform.
 
 
